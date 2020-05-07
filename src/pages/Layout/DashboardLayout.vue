@@ -77,7 +77,8 @@ export default {
     return {
       sidebarBackground: "green",
       sidebarBackgroundImage: require("@/assets/img/sidebar-2.jpg"),
-      imgLogo: "https://cdn1.iconfinder.com/data/icons/virus-covid-19-coronavirus-antivirus-around-worl-1/130/corona-virus-03-512.png"
+      // imgLogo: "https://cdn1.iconfinder.com/data/icons/virus-covid-19-coronavirus-antivirus-around-worl-1/130/corona-virus-03-512.png"
+      imgLogo: require("@/assets/img/logo.png")
     };
   }
 };
